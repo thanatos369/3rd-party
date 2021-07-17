@@ -1,0 +1,3 @@
+给第三方使用  
+web_clipper_upload_images目录用于web-clipper插件上传图片使用  
+vscode_joplin_upload_images目录用于vscode插件上传图片给Joplin使用  
