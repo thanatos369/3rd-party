@@ -1,1 +1,1 @@
-aaa
+用于vscode的PicGo插件上传图片给Joplin使用  
