@@ -1,2 +1,3 @@
+#https://cdn.jsdelivr.net/gh/thanatos369/3rd-party/whitelist.txt
 ######### whitelist Begin #########
 ######### whitelist End   #########
